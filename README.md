@@ -2,7 +2,9 @@
 With QuickLock you can lock and unlock the cursor with a key combination!
 
 
-
+Download:
+Download the ZIP.
+Extract it.
 
 Installation:
 Open the (un)install.bat file.
