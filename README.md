@@ -1,5 +1,6 @@
 # QuickLock
 With QuickLock you can lock and unlock the cursor with a key combination!
+Use alt gr L to lock it and alt gr U to unlock it or change the key combinations to do so!
 
 
 Download:
@@ -34,3 +35,10 @@ Change the key combination.
 Click OK.
 Follow the installation guide.
 done.
+
+If you cant move the cursor and Alt Gr U does Nothing follow these steps:
+Press the Windows key.
+Search for cmd.
+Hit enter.
+Type in the following command: "taskkill /f /im cmd.exe"
+Or you could just restart your computer.
