@@ -10,7 +10,7 @@ if %number% == 1 goto install
 if %number% == 2 goto uninstall
 if %number% == 3 exit
 
-::If a number wich accept for 1,2,3 was entered
+::If a number accept for 1,2,3 was entered
 cls && echo Error, %number% is not a valid number. && echo Please enter a valid number! && echo;
 goto main
 break
