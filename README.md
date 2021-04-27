@@ -9,7 +9,7 @@ Extract it.
 Installation:
 Open the (un)install.bat file.
 Select option 1.
-It want work correctly until you restart, so if you want to restart select 1.
+It wont work correctly until you restart, so if you want to restart select 1.
 Installation completed!
 
 Uninstalation:
